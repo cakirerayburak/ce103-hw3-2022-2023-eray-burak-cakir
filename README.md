@@ -1,4 +1,4 @@
-# CE103 Algorithms and Programming I Homework 3
+# DepartmentStore Management System
 
 In this problem you will upgrade an existing app and you will add multi language support for a console application. This application will provide **Turkish** and **English** languages. Sentences on the screen will be stored on files. For example English words or sentences will be stored on **en.dat** and Turkish sentences and words will be stored in **tr.dat**. There will be configuration file **lang.dat** to keep language selection for user. If language is English then **en.dat** file content will be used otherwise **tr.dat** file will be used. 
 You will use the following working example “**DepartmentStoreManagementSystem**” and one more menu option for language selection such as “Change Language” to following list. 
